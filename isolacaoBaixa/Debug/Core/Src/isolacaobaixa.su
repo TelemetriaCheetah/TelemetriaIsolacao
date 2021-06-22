@@ -1,0 +1,4 @@
+isolacaobaixa.c:10:6:setup	48	static
+isolacaobaixa.c:38:6:HAL_UART_RxCpltCallback	16	static
+isolacaobaixa.c:58:6:sendCANMessage	32	static
+isolacaobaixa.c:101:6:loop	16	static

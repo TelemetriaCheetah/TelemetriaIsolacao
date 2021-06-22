@@ -1,0 +1,4 @@
+isolacaoalta.c:10:6:HAL_CAN_RxFifo0MsgPendingCallback	24	static
+isolacaoalta.c:48:6:setup	48	static
+isolacaoalta.c:80:6:loop	8	static
+isolacaoalta.c:89:6:HAL_ADC_ConvCpltCallback	24	static
